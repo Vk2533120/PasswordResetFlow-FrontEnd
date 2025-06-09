@@ -1,3 +1,13 @@
+Step :- 1
+    open the netlify link and change the end point to forgot-password
+    ![image](https://github.com/user-attachments/assets/3fa5a2d5-0f2c-449c-b5c8-ebc1186c47f6)
+step :- 2
+      
+
+
+
+
+
 Password Reset Flow Project
 Welcome to the Password Reset Flow project! This web application allows users to securely reset their passwords if they forget them.
 
@@ -76,6 +86,4 @@ Configure .env file with your environment variables
 Start backend server: npm run start
 
 Start frontend: npm run start (from the React app directory)
-
-Open your browser at http://localhost:3000 (or your configured port).
 
