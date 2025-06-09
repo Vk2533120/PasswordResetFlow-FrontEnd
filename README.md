@@ -1,6 +1,13 @@
 Password Reset Flow Project
 Welcome to the Password Reset Flow project! This web application allows users to securely reset their passwords if they forget them.
 
+HOW TO USE :
+open the netilify link its open register-page 
+or change the end point to /forgot-password  
+its navigate to the forgot password page then the link will be send to ur email
+click the email it navigate to reset-password page and reset your password
+
+
 Features
 User Login
 
